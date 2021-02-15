@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tarunkmr0023
+- 👀 I’m interested in competitive programmming, web development and machine learning.
+- 🌱 I’m currently learning Web Development, Competitive Programming.
+- 📫 Linnked in : www.linkedin.com/in/tarun0023
