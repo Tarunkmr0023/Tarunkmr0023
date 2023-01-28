@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tarunkmr0023
+- Working as Associate Engineer at @Nagarro
 - 👀 I’m interested in competitive programmming, web development and machine learning.
-- 🌱 I’m currently learning Web Development, Competitive Programming.
-- 📫 Linnked in : www.linkedin.com/in/tarun0023
+- 🌱 I’m currently learning Web Development and Competitive Programming.
+- 📫 Linked in : www.linkedin.com/in/tarun0023
