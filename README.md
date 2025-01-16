@@ -17,7 +17,7 @@ Hi there! I'm Tarun, a Software Engineer at [Nagarro](https://www.nagarro.com/) 
 
 ### 📫 Get in Touch  
 
-- 🌐 **Portfolio:** [Tarun Kumar Portfolio](https://tarunkmr-portfolio.netlify.app/))
+- 🌐 **Portfolio:** [Tarun Kumar Portfolio](https://tarunkmr-portfolio.netlify.app/)
 - 🌐 **LinkedIn:** [Tarun Kumar](https://www.linkedin.com/in/tarun0023)  
 - 📧 **Email:** tarunkmr0023@gmail.com  
 
