@@ -2,7 +2,7 @@
 
 ### 🚀 Software Engineer | Full Stack Java Developer | Tech Enthusiast  
 
-Hi there! I'm Tarun, a Software Engineer at [Nagarro](https://www.nagarro.com/) with 2+ years of experience in Java Full-Stack Development. I'm passionate about crafting efficient solutions, building scalable applications, and learning cutting-edge tools and technologies.  
+Hi there! I'm Tarun, a Software Engineer at [Nagarro](https://www.nagarro.com/) with 4+ years of experience in Java Full-Stack Development. I'm passionate about crafting efficient solutions, building scalable applications, and learning cutting-edge tools and technologies.  
 
 ### 🌟 About Me  
 
